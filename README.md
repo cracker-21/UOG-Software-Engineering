@@ -1,4 +1,4 @@
 # UOG-Software-Engineering
 This repository is for SE course in UOG.
 <br>
-Aurtor - Muhammad Abdullah.
+Author - Muhammad Abdullah.
